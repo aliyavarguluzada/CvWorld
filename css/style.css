@@ -1,0 +1,31 @@
+/* Defaults */
+/* Defaults */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: regular;
+}
+
+/* Defaults End */
+
+/* Header */
+/* Navbar */
+
+/* .logo-img-div{
+    width: 50px!important;
+    height: 50px!important;
+} */
+
+.logo {
+    width: 70px!important;
+    height: 70px!important;
+    border: none;
+}
+
+
+
+
+
+/* Navbar End */
+/* Header End */
