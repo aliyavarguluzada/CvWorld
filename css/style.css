@@ -1,15 +1,15 @@
 /* Defaults */
 /* Defaults */
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: regular;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: regular;
 }
 
 @font-face {
-    font-family: regular;
-    src: url(/fonts/Roboto-Medium.ttf);
+  font-family: regular;
+  src: url(/fonts/Roboto-Medium.ttf);
 }
 
 /* Defaults End */
@@ -22,15 +22,13 @@
     height: 50px!important;
 } */
 
-.li-item {
-    margin-left: 20px;
-    margin-right: 20px;
+.nav-item {
+  margin-left: 20px;
+  margin-right: 20px;
 }
-.li-item a {
-    font-family: regular;
+.nav-item a {
+  font-family: regular;
 }
-
-
 
 /* Navbar End */
 /* Header End */
