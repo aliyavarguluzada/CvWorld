@@ -7,6 +7,11 @@
     font-family: regular;
 }
 
+@font-face {
+    font-family: regular;
+    src: url(/fonts/Roboto-Black.ttf);
+}
+
 /* Defaults End */
 
 /* Header */
@@ -17,13 +22,13 @@
     height: 50px!important;
 } */
 
-.logo {
-    width: 70px!important;
-    height: 70px!important;
-    border: none;
+.li-item {
+    margin-left: 20px;
+    margin-right: 20px;
 }
-
-
+.li-item a {
+    font-family: regular;
+}
 
 
 
