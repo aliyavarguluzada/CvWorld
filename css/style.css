@@ -46,5 +46,13 @@
   width: 500px;
   height: 500px;
 }
+
+/* Todo .main-desc padding faizle verilib ola biler deyismek lazim olsun */
+.main-desc {
+  padding: 15% 15% 10% 15%;
+}
+/* Todo .main-desc padding faizle verilib ola biler deyismek lazim olsun */
+
+
 /* Main End */
 /* Header End */
