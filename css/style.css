@@ -48,11 +48,21 @@
 }
 
 /* Todo .main-desc padding faizle verilib ola biler deyismek lazim olsun */
-.main-desc {
+.main-title {
   padding: 15% 15% 10% 15%;
 }
 /* Todo .main-desc padding faizle verilib ola biler deyismek lazim olsun */
-
-
+.main-desc{
+  padding: 1% 15% 0% 15%;
+}
+.button-div{
+  padding: 1% 15% 0% 15%;
+}
+.button-div button:nth-child(1){
+  margin-right: 5%;
+ 
+  
+   
+}
 /* Main End */
 /* Header End */
