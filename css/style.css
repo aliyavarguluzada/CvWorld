@@ -66,8 +66,12 @@
 /* Main End */
 /* Home */
 /* Designs */
-.design-examples {
-  image-orientation: inherit;
+.designs-div {
+  padding: 2% 0% 2% 0%;
+}
+.design-examples img {
+  width: 95%!important;
+  height: auto;
 }
 /* Designs End */
 /* Home End */
