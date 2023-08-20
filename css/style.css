@@ -34,9 +34,10 @@
 }
 
 /* Navbar End */
+/* Header End */
 /* Main */
 .main-body {
-  background-color: #F9FBFC;
+  background-color: #f9fbfc;
 }
 .main-img-div {
   /* width: 100%; */
@@ -52,17 +53,21 @@
   padding: 15% 15% 10% 15%;
 }
 /* Todo .main-desc padding faizle verilib ola biler deyismek lazim olsun */
-.main-desc{
+.main-desc {
   padding: 1% 15% 0% 15%;
 }
-.button-div{
+.button-div {
   padding: 1% 15% 0% 15%;
 }
-.button-div button:nth-child(1){
+.button-div button:nth-child(1) {
   margin-right: 5%;
- 
-  
-   
 }
+
 /* Main End */
-/* Header End */
+/* Home */
+/* Designs */
+.design-examples {
+  image-orientation: inherit;
+}
+/* Designs End */
+/* Home End */
