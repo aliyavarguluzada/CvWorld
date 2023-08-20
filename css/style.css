@@ -64,14 +64,33 @@
 }
 
 /* Main End */
+
 /* Home */
+
 /* Designs */
 .designs-div {
   padding: 2% 0% 2% 0%;
 }
 .design-examples img {
-  width: 95%!important;
+  width: 95% !important;
   height: auto;
 }
 /* Designs End */
+
+/* Discount */
+.wave-div {
+  padding: 3% 0% 2% 0%;
+}
+.wave-div img {
+  width: 100%;
+}
+.discount-ad{
+  width: fit-content;
+}
+.x {
+  display: flex;
+  flex-wrap: wrap;
+}
+/* Discount End */
+
 /* Home End */
