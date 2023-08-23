@@ -96,4 +96,15 @@ html {
 }
 /* Discount End */
 
+/* Why-panel */
+.why-panel {
+  padding: 2%;
+}
+.why-div{
+  border-radius: 10px!important;
+  padding: 15%;
+}
+
+/* Why-panel End */
+
 /* Home End */
