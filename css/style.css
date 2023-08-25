@@ -102,9 +102,20 @@ html {
 }
 .why-div{
   border-radius: 10px!important;
-  padding: 15%;
 }
 
 /* Why-panel End */
+
+
+/* About */
+.about{
+  background-image: url(/images/hero11-free-img.png);
+}
+.about-content {
+  width: 50%;
+}
+
+
+/* About End */
 
 /* Home End */
