@@ -209,11 +209,11 @@ html {
   margin: 0;
 }
 
-.footer-border p.cop-p {
+.footer-border p.left-p {
   flex-direction: row !important;
 }
 
-.footer-border .dop-p {
+.footer-border .right-p {
   display: flex;
 
   flex-direction: row-reverse;
