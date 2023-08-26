@@ -107,7 +107,10 @@ html {
 .discount-ad {
   width: fit-content;
 }
-
+.why-icons {
+  font-size: xx-large;
+  padding: 15px;
+}
 .x {
   display: flex;
   flex-wrap: wrap;
