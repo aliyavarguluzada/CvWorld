@@ -209,7 +209,8 @@ html {
   margin: 0;
 }
 
-.footer-border p.left-p {
+.footer-border .left-p {
+  display: flex;
   flex-direction: row !important;
 }
 
