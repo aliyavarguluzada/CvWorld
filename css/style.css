@@ -264,6 +264,21 @@ html {
   opacity: 1;
   padding: 0;
 }
+/* Remove modal background and border */
+.modal-lg .modal-content {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+/* Center the image within the modal */
+.modal-lg .modal-dialog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
 
 
 
