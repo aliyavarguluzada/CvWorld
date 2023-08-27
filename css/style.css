@@ -279,7 +279,11 @@ html {
   margin: 0;
 }
 
-
-
-
 /* Catalog End */
+
+/* Contact */
+.contact-input {
+  border: 1 px solid #313131;
+  border-radius: 6px;
+}
+/* Contact End */
