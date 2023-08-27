@@ -4,6 +4,13 @@
     .about-content {
         width: 100%!important;
     }
+    .social-media {
+        display: flex!important;
+        flex-direction: row!important;
+    }
+    .social-media-icons {
+        width: 33%;
+    }
     /* About End */
 }
 
