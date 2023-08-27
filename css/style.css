@@ -228,3 +228,29 @@ html {
 }
 
 /* Footer End */
+
+
+
+
+
+
+
+
+
+/* Catalog */
+
+.image-container {
+  text-align: center;
+}
+
+/* Enlarged image styling */
+.modal-lg .modal-content .modal-body .enlarged-image {
+  max-width: 100%;
+  max-height: calc(100vh - 120px); /* Adjust the value to control the height */
+  margin: 0 auto;
+  display: block;
+}
+
+
+
+/* Catalog End */
