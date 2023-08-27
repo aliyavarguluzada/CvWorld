@@ -12,6 +12,20 @@
         width: 33%;
     }
     /* About End */
+    /* Footer */
+    .footer-border {
+        display: flex!important;
+        flex-direction: row!important;
+    }
+    .left-p {
+        width: 49%!important;
+    }
+    
+    .right-p {
+        width: 49%!important;
+    }
+
+    /* Footer End */
 }
 
 
