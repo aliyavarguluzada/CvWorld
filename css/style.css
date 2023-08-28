@@ -286,4 +286,10 @@ html {
   border: 1 px solid #313131;
   border-radius: 6px;
 }
+.contact-icons {
+  padding: 35px;
+}
+.contact-icons i {
+  font-size: 25px;
+}
 /* Contact End */
