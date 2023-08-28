@@ -293,12 +293,26 @@ html {
   border: 1px solid #E1E2E2;
   border-radius: 6px;
 }
+
 .contact-input form {
   padding: 30px;
+}
+.social-contact-icons{
+  padding: 20px 0px 20px 0px;
 }
 .input-title {
   padding: 15px 30px 15px 30px;
 }
+
+.contact-main-h1 {
+  padding: 20px 0px 20px 0px;
+}
+
+.contact-main-p {
+  padding: 20px 0px 20px 0px;
+
+}
+
 .contact-icons {
   padding: 35px;
 }
