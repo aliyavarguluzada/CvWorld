@@ -264,6 +264,7 @@ html {
   opacity: 1;
   padding: 0;
 }
+
 /* Remove modal background and border */
 .modal-lg .modal-content {
   background: none;
@@ -282,14 +283,28 @@ html {
 /* Catalog End */
 
 /* Contact */
+.contact-main {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
 .contact-input {
-  border: 1 px solid #313131;
+  padding: 10px;
+  border: 1px solid #E1E2E2;
   border-radius: 6px;
+}
+.contact-input form {
+  padding: 30px;
+}
+.input-title {
+  padding: 15px 30px 15px 30px;
 }
 .contact-icons {
   padding: 35px;
 }
+
 .contact-icons i {
   font-size: 25px;
 }
+
 /* Contact End */
