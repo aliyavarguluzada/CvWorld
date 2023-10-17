@@ -33,7 +33,15 @@
     }
     /* Default styles for larger screens */
    
-  
+  .search-btn {
+    width: -webkit-fill-available;
+  }
+  .search-option {
+    padding-bottom: 15px;
+  }
+  .search-label{
+    padding-bottom: 5px;
+  }
     /* Vacancies End */
 }
 
