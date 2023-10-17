@@ -71,6 +71,94 @@
     <main>
       <!-- Example job vacancy listings using Bootstrap classes -->
       <div class="container">
+        <div class="container mt-4 search-form">
+          <form method="get" action="/Search"> <!-- Replace '/Search' with your actual search URL -->
+              <div class="row">
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="city">City</label>
+                          <select class="form-control" id="city" name="city">
+                              <!-- Populate with city options -->
+                              <option value="city1">City 1</option>
+                              <option value="city2">City 2</option>
+                              <!-- Add more city options as needed -->
+                          </select>
+                      </div>
+                  </div>
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="jobCategory">Job Category</label>
+                          <select class="form-control" id="jobCategory" name="jobCategory">
+                              <!-- Populate with job category options -->
+                              <option value="category1">Category 1</option>
+                              <option value="category2">Category 2</option>
+                              <!-- Add more job category options as needed -->
+                          </select>
+                      </div>
+                  </div>
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="jobType">Job Type</label>
+                          <select class="form-control" id="jobType" name="jobType">
+                              <!-- Populate with job type options -->
+                              <option value="type1">Type 1</option>
+                              <option value="type2">Type 2</option>
+                              <!-- Add more job type options as needed -->
+                          </select>
+                      </div>
+                  </div>
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="workForm">Work Form</label>
+                          <select class="form-control" id="workForm" name="workForm">
+                              <!-- Populate with work form options -->
+                              <option value="form1">Form 1</option>
+                              <option value="form2">Form 2</option>
+                              <!-- Add more work form options as needed -->
+                          </select>
+                      </div>
+                  </div>
+              </div>
+              <div class="row mt-3">
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="education">Education</label>
+                          <select class="form-control" id="education" name="education">
+                              <!-- Populate with education options -->
+                              <option value="edu1">Education 1</option>
+                              <option value="edu2">Education 2</option>
+                              <!-- Add more education options as needed -->
+                          </select>
+                      </div>
+                  </div>
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="experience">Experience</label>
+                          <select class="form-control" id="experience" name="experience">
+                              <!-- Populate with experience options -->
+                              <option value="exp1">Experience 1</option>
+                              <option value="exp2">Experience 2</option>
+                              <!-- Add more experience options as needed -->
+                          </select>
+                      </div>
+                  </div>
+                  <div class="col-md-3">
+                      <div class="form-group">
+                          <label for="keywords">Keywords</label>
+                          <input type="text" class="form-control" id="keywords" name="keywords" placeholder="Optional Keywords">
+                      </div>
+                  </div>
+                  <div class="col-md-3">
+                      <div class="form-group mt-4">
+                          <button type="submit" class="btn btn-primary">Search</button>
+                      </div>
+                  </div>
+              </div>
+          </form>
+      </div>
+      </div>
+      
+      <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="vacancy mb-3 border p-3">

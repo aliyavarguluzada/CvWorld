@@ -331,5 +331,7 @@ html {
 .add-vacancy {
   padding: 15px;
 }
-
+.search-form {
+  padding-bottom: 20px;
+}
 /* End Add-Vacancy */
